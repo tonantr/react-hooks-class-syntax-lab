@@ -13,7 +13,7 @@ that you are using class components instead of functions.
 Your goal is to refactor all the components in the `src/components` directory to
 use classes instead of functions, and _still_ have the tests passing.
 
-Good luck!
+Good luck!!!
 
 ## Resources
 
